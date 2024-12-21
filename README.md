@@ -11,10 +11,7 @@ Header](README_files/README_files/f467ed21a7e815cdf8a9c29fa75b3ebc12878a74.png)]
 
 SMILES enumeration is the process of writing out all possible SMILES
 forms of a molecule. It's a useful technique for data augmentation
-before sequence based modeling of molecules. You can read more about the
-background in this [blog
-post](https://www.wildcardconsulting.dk/useful-information/smiles-enumeration-as-data-augmentation-for-molecular-neural-networks/)
-or [this preprint on arxiv.org](https://arxiv.org/abs/1703.07076)
+before sequence based modeling of molecules.
 
 </div>
 
@@ -619,9 +616,6 @@ Modeling of Molecules](https://arxiv.org/abs/1703.07076)
 </div>
 
 <div class="cell markdown">
-
-If you find it useful, feel welcome to leave a comment on the
-[blog.](https://www.wildcardconsulting.dk/useful-information/smiles-enumeration-as-data-augmentation-for-molecular-neural-networks/)
 
 </div>
 
